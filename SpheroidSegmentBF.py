@@ -1,10 +1,7 @@
 import os
 import sys
-import tqdm
 import numpy as np
-import pandas
 
-from tqdm import tqdm_notebook as tqdm
 import pims
 from scipy.ndimage import gaussian_filter
 
